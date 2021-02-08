@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi!
+
+I am a data analyst and Go programmer who likes to build tools to support my favorite data analytics platform, Alteryx. I am the developer behind goalteryx, the unofficial Go SDK for Alteryx, and a co-founder of the ayx-builders group, who learns and builds custom tools together.
+
+You can follow my work here or follow me on social media:
+* [Twitter](https://twitter.com/tlarsendataguy)
+* [LinkedIn](https://www.linkedin.com/in/thomas-larsen-304b7a13/)
 
 <!--
 **tlarsen7572/tlarsen7572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
